@@ -1,4 +1,15 @@
+/target/
+
+### STS ###
+.apt_generated
 .classpath
-.settings
-.target
+.factorypath
 .project
+.settings
+.springBeans
+.sts4-cache
+
+### GitHub ###
+.git/
+*.git
+.git
